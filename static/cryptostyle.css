@@ -1,0 +1,14 @@
+body {
+	background-image:url('bchain.jpg');
+	background-repeat:no-repeat;
+	background-attachment:fixed;
+	background-size: cover;
+}
+
+.btn{
+    color: black;
+}
+
+.header{
+    color: black;
+}
